@@ -18,7 +18,7 @@ body {
 .navbar-brand h1 { /* Restaurant name */
   font-family: times, serif;
   color:yellow;
-  font-size: 2em;
+  font-size: 1.4em;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
